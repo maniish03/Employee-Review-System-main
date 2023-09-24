@@ -1,0 +1,43 @@
+
+
+.container{
+    background: linear-gradient(135deg, cyan,blue);
+    border-radius: 10px;
+    width: 600px;
+    padding: 25px 25px;
+    margin-top: 25px;
+}
+
+.label{
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: #272626;
+}
+
+.input{
+    border: none;
+    outline: none;
+    width: 100%;
+    background: transparent;
+    border-bottom: 2px solid rgb(64, 76, 83);
+    color: #fff;
+}
+
+.select{
+    width: 45%;
+    border-radius: 8px;
+}
+
+.btn{
+    border: 2px solid dodgerblue;
+    width: 45%;
+    font-weight: 500;
+}
+
+.text p{
+    text-align: center;
+    font-weight: 500;
+}
+.text a{
+    color: #fff;
+}
